@@ -72,7 +72,6 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 
 ## 🚀 Manual de Execução
 
-(Colocar no futuro)
 
 - Clonar o repositório com `git clone`.
 - Abrir o projeto no Visual Studio Code (VS Code).
