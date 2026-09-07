@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo desenvolver uma plataforma web voltada à comunidade brasileira de **Counter-Strike**, reunindo informações sobre o cenário competitivo, jogadores, equipes, partidas, campeonatos, notícias e outros conteúdos relacionados ao jogo.
 
-A aplicação utilizará a **CS API** para obtenção de dados relacionados ao cenário competitivo de Counter-Strike e o **JSON Server** para simulação de uma API REST própria da aplicação.
+A aplicação utilizará a **CS API** para obtenção de dados relacionados ao cenário competitivo de Counter-Strike e o **JSON Server** para simulação de uma API FAKE própria da aplicação.
 
 ## 📚 Documentação do Projeto
 
@@ -25,32 +25,9 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 ## 💻 Tecnologias e Dependências
 
 - **Framework CSS:** Bootstrap 5
-- **Preprocessador CSS:** Sass (SCSS)
 - **JavaScript:** Vanilla JavaScript
 - **API Fake:** JSON Server
 - **API Pública:** CS API
-
-## 🎮 Funcionalidades
-
-- [ ] Página inicial
-- [ ] Notícias
-- [ ] Partidas
-- [ ] Campeonatos
-- [ ] Ranking de equipes
-- [ ] Perfil de equipes
-- [ ] Perfil de jogadores
-- [ ] Estatísticas de jogadores
-- [ ] Pesquisa de jogadores e equipes
-- [ ] Sistema de filtros
-- [ ] Área da comunidade
-- [ ] Posts e discussões
-- [ ] Comentários
-- [ ] Sistema de favoritos
-- [ ] Inventários públicos de jogadores profissionais
-- [ ] Exibição de skins e itens
-- [ ] Layout responsivo
-- [ ] Integração com a CS API
-- [ ] Integração com JSON Server
 
 ## ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
